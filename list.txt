@@ -11,3 +11,15 @@ googlevideo.com
 *.youtube.com
 *.ytimg.com
 *.yt.be
+youtube-nocookie.com
+www.youtube-nocookie.com
+*.youtube.com
+*.youtube.de
+*.googlevideo.com
+*.googlevideo.de
+youtubei.googleapis.com
+youtube.googleapis.com
+*.youtubei.googleapis.com
+*.youtube.googleapis.com
+*.youtubei.googleapis.de
+*.youtube.googleapis.de
